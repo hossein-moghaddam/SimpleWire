@@ -49,7 +49,7 @@ python3 wireshark.py
 
 An example of output of a captured packet is shown below:
 
-![Example](/home/h/Desktop/network-projects/wireshark/SimpleWire/images/example.png)
+![Example](images/example.png)
 
 
 
